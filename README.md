@@ -1,1 +1,1 @@
-This is the verilog and constraint file of a half adder circuit. The half adder takes 3 single bit inputs and adds them together, outputting the sum and carry. 
+This is the verilog and constraint file of a half adder circuit. The half adder takes 3 single bit inputs and adds them together, outputting the sum and carry. The inputs are the user buttons as well as Pin 80 (SDIO_D2). This code works in GowinIDE utilizing a GW2AR-LV18QN88C8/I7 Tang Nano 20k FPGA Board.
